@@ -1,0 +1,18 @@
+<li>
+					{' '}
+					<Link
+						className='white-space nowrap icon solid fa-cog'
+						to='/Signup'
+					>
+						Sign Up
+					</Link>
+				</li>
+				
+				<li>
+									<Link
+						className='white-space nowrap icon solid fa-retweet'
+						to='/AddProduct'
+					>
+						<span>Add Product</span>
+					</Link>
+					</li>
